@@ -3,16 +3,9 @@ jQuery Carousel with thumbs and captions
 
 This plugin builds a image Carousel with thumbs and captions based on a list of images
 
-#Options
+#Demo
+[Demo](http://www.w3masters.nl/captionthumbcarousel/) with Twitter Bootstrap 2.x.
 
-Option | Default | Description
---- | --- | ---
-start | `0` | index of the image list of the first image of the carousel
-numberofthumbs | `4` | number of thumbs to show in the list
-captionTitleTag | `h1` | HTML tag which wraps the caption title
-captionCententTag | `p` | HTML tag which wraps the content title
-previousSelector | `.previousimage` | CSS selector for the previous button
-nextSelector | `.nextimage` | CSS selector for the next button
 
 # Installation
 
@@ -54,3 +47,13 @@ To install copy the *js*, and *css* directories into your project and add the fo
       $('#carousel').captionthumbcarousel();
     </script>
     
+#Options
+
+Option | Default | Description
+--- | --- | ---
+start | `0` | index of the image list of the first image of the carousel
+numberofthumbs | `4` | number of thumbs to show in the list
+captionTitleTag | `h1` | HTML tag which wraps the caption title
+captionCententTag | `p` | HTML tag which wraps the content title
+previousSelector | `.previousimage` | CSS selector for the previous button
+nextSelector | `.nextimage` | CSS selector for the next button
