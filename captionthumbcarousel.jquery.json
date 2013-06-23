@@ -1,0 +1,28 @@
+{
+  "name": "captionthumbcarousel",
+  "title": "jQuery Carousel with captions and thumbs",
+  "description": "This plugin builds a image Carousel with thumbs and captions based on a list of images.",
+  "keywords": ["images","carousel","captions","thumbs"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Bass Jobsen",
+    "email": "bass@w3maters.nl",
+    "url": "http://www.w3masters.nl/"
+  },
+  "licenses":
+  [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bassjobsen/jquery-captionthumbcarousel/LICENSE"
+    }
+  ],
+  "demo": "http://www.w3masters.nl/captionthumbcarousel/",
+  "bugs": "https://github.com/bassjobsen/jquery-captionthumbcarousel/issues",
+  "docs": "https://bassjobsen.github.com/jquery-captionthumbcarousel",
+  "homepage": "https://bassjobsen.github.com/jquery-captionthumbcarousel",
+  "download": "https://bassjobsen.github.com/jquery-captionthumbcarousel/archive/master.zip",
+  "dependencies":
+  {
+    "jquery": ">1.5"
+  }
+}
